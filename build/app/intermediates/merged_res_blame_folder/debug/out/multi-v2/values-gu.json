@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml",
+            "map": [
+                {
+                    "source": "/Users/testtest/.gradle/caches/transforms-3/b7bc9c15f8c5e77a1feaa02a332b4e59/transformed/jetified-firebase-messaging-23.0.0/res/values-gu/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "207",
+                        "endColumns": "69",
+                        "endOffsets": "276"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2770",
+                        "endColumns": "73",
+                        "endOffsets": "2839"
+                    }
+                },
+                {
+                    "source": "/Users/testtest/.gradle/caches/transforms-3/52c4d327b2a0994149718053d3122316/transformed/jetified-play-services-basement-17.6.0/res/values-gu/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "205",
+                        "endOffsets": "452"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1245",
+                        "endColumns": "205",
+                        "endOffsets": "1446"
+                    }
+                },
+                {
+                    "source": "/Users/testtest/.gradle/caches/transforms-3/9d8f641645a69ad51947770966adc010/transformed/core-1.7.0/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "35",
+                        "startColumns": "4",
+                        "startOffsets": "3864",
+                        "endColumns": "100",
+                        "endOffsets": "3960"
+                    }
+                },
+                {
+                    "source": "/Users/testtest/.gradle/caches/transforms-3/4acc8dc4d556ac9b4c6891c5b8154476/transformed/jetified-play-services-base-17.6.0/res/values-gu/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,351,549,672,782,979,1099,1236,1361,1568,1674,1869,1992,2194,2370,2457,2549",
+                        "endColumns": "105,197,122,109,196,119,136,124,206,105,194,122,201,175,86,91,106",
+                        "endOffsets": "350,548,671,781,978,1098,1235,1360,1567,1673,1868,1991,2193,2369,2456,2548,2655"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,215,413,540,654,851,975,1116,1451,1658,1768,1963,2090,2292,2472,2563,2659",
+                        "endColumns": "109,197,126,113,196,123,140,128,206,109,194,126,201,179,90,95,110",
+                        "endOffsets": "210,408,535,649,846,970,1111,1240,1653,1763,1958,2085,2287,2467,2558,2654,2765"
+                    }
+                },
+                {
+                    "source": "/Users/testtest/.gradle/caches/transforms-3/e060bfafe6c3a102ce71bd25adf3c4d3/transformed/jetified-play-services-ads-20.5.0/res/values-gu/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "199,276,374,425,543,599,711,802,839,925,961,994,1043,1118",
+                        "endColumns": "76,97,50,117,55,111,90,36,85,35,32,48,74,44",
+                        "endOffsets": "275,373,424,542,598,710,801,838,924,960,993,1042,1117,1162"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,28,29,30,31,32,33,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2844,2925,3027,3082,3204,3264,3380,3475,3516,3606,3646,3683,3736,3815",
+                        "endColumns": "80,101,54,121,59,115,94,40,89,39,36,52,78,48",
+                        "endOffsets": "2920,3022,3077,3199,3259,3375,3470,3511,3601,3641,3678,3731,3810,3859"
+                    }
+                }
+            ]
+        }
+    ]
+}

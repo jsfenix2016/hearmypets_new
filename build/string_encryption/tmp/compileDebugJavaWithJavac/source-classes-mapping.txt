@@ -1,0 +1,2 @@
+com/example/string_encryption/BuildConfig.java
+ com.example.string_encryption.BuildConfig

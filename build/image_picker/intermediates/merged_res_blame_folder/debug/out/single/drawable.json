@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/image_picker/intermediates/merged_res/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/e70017e99042c4abd71f616d9a697607/transformed/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/image_picker/intermediates/merged_res/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/e70017e99042c4abd71f616d9a697607/transformed/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/image_picker/intermediates/merged_res/debug/drawable/notification_bg.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/e70017e99042c4abd71f616d9a697607/transformed/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/image_picker/intermediates/merged_res/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/e70017e99042c4abd71f616d9a697607/transformed/core-1.1.0/res/drawable/notification_icon_background.xml"
+    }
+]

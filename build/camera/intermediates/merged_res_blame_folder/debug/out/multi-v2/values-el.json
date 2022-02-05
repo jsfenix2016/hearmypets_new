@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/camera/intermediates/merged_res/debug/values-el/values-el.xml",
+            "map": [
+                {
+                    "source": "/Users/testtest/.gradle/caches/transforms-3/e70017e99042c4abd71f616d9a697607/transformed/core-1.1.0/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/camera/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml",
+            "map": [
+                {
+                    "source": "/Users/testtest/.gradle/caches/transforms-3/e70017e99042c4abd71f616d9a697607/transformed/core-1.1.0/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

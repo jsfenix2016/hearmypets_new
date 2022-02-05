@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "174301112252",
+    "firebase_url": "https://heartmypet-305ad.firebaseio.com",
+    "project_id": "heartmypet-305ad",
+    "storage_bucket": "heartmypet-305ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174301112252:android:4a5fe7966a91d23e946db9",
+        "android_client_info": {
+          "package_name": "com.FenixJsfDevelopment.heartmypet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174301112252-vvju7gq7m6k2s4i2i883khj34jtsk4ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbLzIjJerS-9OKnSWfd48TSA-TbPGoZoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174301112252-vvju7gq7m6k2s4i2i883khj34jtsk4ev.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "174301112252-kqe8rja0chqueihcscpt57m6jmajhkhn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FenixJsfDevelopment.heartmypet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

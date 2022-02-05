@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/camera/intermediates/merged_res/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/e70017e99042c4abd71f616d9a697607/transformed/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/camera/intermediates/merged_res/debug/layout/custom_dialog.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/e70017e99042c4abd71f616d9a697607/transformed/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/camera/intermediates/merged_res/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/e70017e99042c4abd71f616d9a697607/transformed/core-1.1.0/res/layout/notification_template_part_time.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/camera/intermediates/merged_res/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/e70017e99042c4abd71f616d9a697607/transformed/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/camera/intermediates/merged_res/debug/layout-v21/notification_action.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/e70017e99042c4abd71f616d9a697607/transformed/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/camera/intermediates/merged_res/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/e70017e99042c4abd71f616d9a697607/transformed/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/camera/intermediates/merged_res/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/e70017e99042c4abd71f616d9a697607/transformed/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/google_mobile_ads/intermediates/merged_res/debug/layout/browser_actions_context_menu_page.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/6e36650b562e582989a29c6b4b8ac6be/transformed/browser-1.0.0/res/layout/browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/google_mobile_ads/intermediates/merged_res/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/5394437eb41fec547d75cf1dd79a9f9c/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/google_mobile_ads/intermediates/merged_res/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/5394437eb41fec547d75cf1dd79a9f9c/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/google_mobile_ads/intermediates/merged_res/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/5394437eb41fec547d75cf1dd79a9f9c/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/google_mobile_ads/intermediates/merged_res/debug/layout/custom_dialog.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/5394437eb41fec547d75cf1dd79a9f9c/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/google_mobile_ads/intermediates/merged_res/debug/layout/notification_action.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/5394437eb41fec547d75cf1dd79a9f9c/transformed/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/google_mobile_ads/intermediates/merged_res/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/5394437eb41fec547d75cf1dd79a9f9c/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/google_mobile_ads/intermediates/merged_res/debug/layout/browser_actions_context_menu_row.xml",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/6e36650b562e582989a29c6b4b8ac6be/transformed/browser-1.0.0/res/layout/browser_actions_context_menu_row.xml"
+    }
+]

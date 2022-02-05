@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/google_mobile_ads/intermediates/merged_res/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/5394437eb41fec547d75cf1dd79a9f9c/transformed/core-1.6.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/google_mobile_ads/intermediates/merged_res/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/5394437eb41fec547d75cf1dd79a9f9c/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/google_mobile_ads/intermediates/merged_res/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/5394437eb41fec547d75cf1dd79a9f9c/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/google_mobile_ads/intermediates/merged_res/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/5394437eb41fec547d75cf1dd79a9f9c/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/testtest/Desktop/version nueva de flutter mi app/heartmypet/build/google_mobile_ads/intermediates/merged_res/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/testtest/.gradle/caches/transforms-3/5394437eb41fec547d75cf1dd79a9f9c/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]
